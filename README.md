@@ -12,7 +12,7 @@
 <br />
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-readme-tau.vercel.app/api/spotify-playing" alt="Liam's Spotify Playing" width="350" />](https://open.spotify.com/user/DelBo)
+[<img src="https://spotify-readme-tau.vercel.app/api/spotify-playing" alt="Griizz's Spotify Playing" width="350" />](https://open.spotify.com/user/DelBo)
 
 ### Languages and Tools:
 
