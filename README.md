@@ -9,7 +9,7 @@
 ### Connect with me:
 [<img align="left" alt="ignGriizz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-
+<br />
 ### Spotify Playing 🎧
 [<img src="https://spotify-readme-tau.vercel.app/api/spotify-playing" alt="Liam's Spotify Playing" width="350" />](https://open.spotify.com/user/DelBo)
 
