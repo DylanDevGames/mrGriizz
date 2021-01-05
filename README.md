@@ -1,9 +1,12 @@
 
-Whats Poppin 👋
-🔭 I’m currently working on a bot.
-🌱 I’m currently learning Java/Python/Splunk/SPL.
-💬 Ask me about anything.
-Connect with me:
-Twitter
+### Whats Poppin 👋
 
-enter image description here
+- 🔭 I’m currently working on a [bot](https://github.com/mrGriizz/Advanced-Bot). 
+- 🌱 I’m currently learning Java/Python/Splunk/SPL.
+- 💬 Ask me about anything.
+-
+
+### Connect with me:
+[Twitter](https://twitter.com/ignGriizz) 
+
+
