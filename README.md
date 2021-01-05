@@ -10,17 +10,11 @@
 [<img align="left" alt="hcfuno | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
-[Image](https://github-readme-stats.vercel.app/api?username=mrGRiizz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+(https://github-readme-stats.vercel.app/api?username=mrGRiizz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
 ### Spotify Playing 🎧
 [<img src="https://spotify-readme-tau.vercel.app/api/spotify-playing" alt="Liam's Spotify Playing" width="350" />](https://open.spotify.com/user/DelBo)
-
-### Connect with me:
-
-[<img align="left" alt="hcfuno | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
 
 ### Languages and Tools:
 
@@ -40,7 +34,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Uber's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UberDevo&count_private=true&show_icons=true&hide_border=true" />
+  <img align="left" alt="Griizz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UberDevo&count_private=true&show_icons=true&hide_border=true" />
 
 </details>
 
