@@ -1,7 +1,7 @@
 
 ### Whats Poppin 👋
 
-- 🔭 I’m currently working on a Nothing(https://github.com/mrGriizz/Advanced-Bot). 
+- 🔭 I’m currently working on a Nothing. 
 - 🌱 I’m currently learning Java/Python/Splunk/SPL.
 - 💬 Ask me about anything.
 
