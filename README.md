@@ -2,7 +2,7 @@
 ### Whats Poppin 👋
 
 - 🔭 I’m currently working on private projects. 
-- 🌱 I’m currently learning Java/Python/Splunk/SPL.
+- 🌱 I’m currently learning Java/Python/JS/Splunk/SPL.
 - 💬 Ask me about anything.
 
 
